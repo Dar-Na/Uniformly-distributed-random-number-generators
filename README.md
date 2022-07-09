@@ -1,4 +1,4 @@
-# Uniformly-distributed-random-number-generators
+## Uniformly-distributed-random-number-generators
 
 Linear generators:
 Xn + 1 = (a1Xn + a2Xn-1 + ... + akXn-k + 1 + c) mod M 
